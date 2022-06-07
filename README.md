@@ -1,2 +1,0 @@
-# Smart_society_Managment_System
-Implementation 
